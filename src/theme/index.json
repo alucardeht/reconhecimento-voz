@@ -1,0 +1,28 @@
+[
+  {
+    "key": "DEFAULT",
+    "default": "#5c3c8c",
+    "numbersDefault": "92, 60, 140",
+    "darkerDefault": "#3e206d",
+    "numbersDarkerDefault": "62, 32, 109",
+    "mediumDefault": "#916dd5",
+    "numbersMediumDefault": "145, 109, 213",
+    "lighterDefault": "#d89cf6",
+    "numbersLighterDefault": "216, 156, 246",
+    "softDefault": "#f0e3ff",
+    "numbersSoftDefault": "240, 227, 255"
+  },
+  {
+    "key": "DARK",
+    "default": "#522878",
+    "numbersDefault": "83, 40, 120",
+    "darkerDefault": "#361654",
+    "numbersDarkerDefault": "54, 22, 84",
+    "mediumDefault": "#3d1860",
+    "numbersMediumDefault": "61, 24, 96",
+    "lighterDefault": "#643579",
+    "numbersLighterDefault": "99, 53, 121",
+    "softDefault": "#bb99cd",
+    "numbersSoftDefault": "187, 153, 205"
+  }
+]
